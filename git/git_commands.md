@@ -33,3 +33,5 @@ Git can be used to track changes in any set of files. it can coordinate with git
 | ------ | ------ |
 | GITHUB | http://github.com |
 | Git | https://git-scm.com |
+| git command reference link | https://dzone.com/articles/top-20-git-commands-with-examples |
+|git reference youtube link|https://www.youtube.com/watch?v=WbwIoQYP6no|
